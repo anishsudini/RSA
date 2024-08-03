@@ -25,4 +25,4 @@ An explanation of the command-line syntax is as follows:
 
    – Given the p and q values found in p.txt and q.txt respectively, decrypt the ciphertext in encrypted.txt using the RSA algo- rithm, and write the output to decrypted.txt
 
-Note: The priority in RSA is to select a particular value of e and then choose p and q accordingly. For this implementation I used e = 65537, but feel free to change this prime number.
+Note: The priority in RSA is to select a particular value of e and then choose p and q accordingly. For this implementation I used e = 65537 (LINE 192), but feel free to change this prime number. 
