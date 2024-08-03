@@ -1,8 +1,3 @@
-# Homework Number: 6, Problem #1
-# Name: Anish Sudini    
-# ECN Login: asudini    
-# Due Date: 2/27/2024
-
 import sys
 from BitVector import *
 import random
