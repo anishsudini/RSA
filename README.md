@@ -11,9 +11,8 @@ An explanation of the command-line syntax is as follows:
 
 • For Key Generation (indicated by ‘-g’ in line 1)
 
-	– The generated values of p and q will be written to p.txt and q.txt respectively.
-	– The .txt files should contain the number as an integer represented in ASCII.
-	– For example if p = 7, the corresponding text file will display 7 when opened in a text editor.
+– The generated values of p and q will be written to p.txt and q.txt respectively.
+– The .txt files should contain the number as an integer represented in ASCII.
 
 • For Encryption (indicated by ‘-e’ in line 2)
 
