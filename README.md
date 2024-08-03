@@ -1,5 +1,5 @@
 # RSA
-RSA Encryption &amp; Decryption Implementation
+RSA Encryption &amp; Decryption Python Script Implementation
 
 The three commands below specify the exact command-line syntax for invoking encryption and decryption.
 	
